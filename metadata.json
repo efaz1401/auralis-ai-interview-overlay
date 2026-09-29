@@ -1,0 +1,6 @@
+{
+  "name": "Auralis AI",
+  "description": "An elite, immersive AI-powered interview preparation studio featuring live transcripts, real-time STAR framework tracking, and customized interactive feedback.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
